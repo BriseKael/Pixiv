@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 
-# print "hello \n";
-
 `mkdir temp`;
 
 # position is in Chrome -> cookie
@@ -134,21 +132,6 @@ while ($section =~ s/<section id=\"([0-9]+)\".*?data\-id=\"([0-9]+)\"(.*?)<\/sec
 
 # du 
 # curl --referer "http://www.pixiv.net/member_illust.php?mode=medium&illust_id=60990776" -s -O http://i1.pixiv.net/img-original/img/2017/01/18/04/17/58/60990776_p0.jpg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
