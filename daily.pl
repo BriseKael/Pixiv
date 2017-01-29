@@ -4,7 +4,7 @@
 
 # position is in Chrome -> cookie
 # used for login
-$cookie = "PHPSESSID=21545843_640c69fbe2f5e96f54ba30710eaf544d"; # not used
+$cookie = "PHPSESSID=XXXX_XXXXXXXX"; # not used
 
 $useragent = "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.27 Safari/525.13";
 
